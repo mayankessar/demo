@@ -1,4 +1,4 @@
-[
+data: [
                 {
                   name: 'Test1',
                   type: 'KAFKA',
