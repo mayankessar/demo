@@ -1,4 +1,4 @@
-data: [
+{data: [
                 {
                   name: 'Test1',
                   type: 'KAFKA',
@@ -69,4 +69,4 @@ data: [
                   pipelineStatus: 'Active',
                   action: '',
                 },
-              ]
+              ]}
