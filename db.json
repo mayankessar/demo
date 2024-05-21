@@ -1,72 +1,92 @@
 {"data" :[
                 {
-                  "name": "Test1",
+                  "pipelineName": "Test1",
+                  "pipeline": "SQL",
+                  "dateCreated": "02-01-2024"
                   "type": "KAFKA",
-                  "syncStatus": "Success",
+                  "taskStatus": "Success",
                   "pipelineStatus": "Deleted",
-                  "action": ""
+                  "createdBy": "Mayank"
                 },
                 {
-                  "name": "Test2",
+                  "pipelineName": "Test2",
+                  "pipeline": "SQL",
+                  "dateCreated": "02-01-2024"
                   "type": "KAFKA",
-                  "syncStatus": "Success",
-                  "pipelineStatus": "Active",
-                  "action": ""
-                },
-                {
-                  "name": "Test3",
-                  "type": "KAFKA",
-                  "syncStatus": "Failed",
+                  "taskStatus": "Success",
                   "pipelineStatus": "Deleted",
-                  "action": ""
+                  "createdBy": "Mayank"
                 },
                 {
-                  "name": "Test4",
+                  "pipelineName": "Test3",
+                  "pipeline": "SQL",
+                  "dateCreated": "02-01-2024"
                   "type": "KAFKA",
-                  "syncStatus": "Success",
+                  "taskStatus": "Success",
                   "pipelineStatus": "Deleted",
-                  "action": ""
+                  "createdBy": "Mayank"
                 },
                 {
-                  "name": "Test5",
+                  "pipelineName": "Test4",
+                  "pipeline": "SQL",
+                  "dateCreated": "02-01-2024"
                   "type": "KAFKA",
-                  "syncStatus": "Success",
-                  "pipelineStatus": "Active",
-                  "action": ""
+                  "taskStatus": "Success",
+                  "pipelineStatus": "Deleted",
+                  "createdBy": "Mayank"
                 },
                 {
-                  "name": "Test6",
+                  "pipelineName": "Test5",
+                  "pipeline": "SQL",
+                  "dateCreated": "02-01-2024"
                   "type": "KAFKA",
-                  "syncStatus": "Failed",
-                  "pipelineStatus": "Active",
-                  "action": ""
+                  "taskStatus": "Success",
+                  "pipelineStatus": "Deleted",
+                  "createdBy": "Mayank"
                 },
                 {
-                  "name": "Test7",
+                  "pipelineName": "Test6",
+                  "pipeline": "SQL",
+                  "dateCreated": "02-01-2024"
                   "type": "KAFKA",
-                  "syncStatus": "Failed",
-                  "pipelineStatus": "Active",
-                  "action": ""
+                  "taskStatus": "Success",
+                  "pipelineStatus": "Deleted",
+                  "createdBy": "Mayank"
                 },
                 {
-                  "name": "Test8",
+                  "pipelineName": "Test7",
+                  "pipeline": "SQL",
+                  "dateCreated": "02-01-2024"
                   "type": "KAFKA",
-                  "syncStatus": "Failed",
-                  "pipelineStatus": "Active",
-                  "action": ""
+                  "taskStatus": "Success",
+                  "pipelineStatus": "Deleted",
+                  "createdBy": "Mayank"
                 },
                 {
-                  "name": "Test9",
+                  "pipelineName": "Test8",
+                  "pipeline": "SQL",
+                  "dateCreated": "02-01-2024"
                   "type": "KAFKA",
-                  "syncStatus": "Failed",
-                  "pipelineStatus": "Active",
-                  "action": ""
+                  "taskStatus": "Success",
+                  "pipelineStatus": "Deleted",
+                  "createdBy": "Mayank"
                 },
                 {
-                  "name": "Test10",
+                  "pipelineName": "Test9",
+                  "pipeline": "SQL",
+                  "dateCreated": "02-01-2024"
                   "type": "KAFKA",
-                  "syncStatus": "Failed",
-                  "pipelineStatus": "Active",
-                  "action": ""
+                  "taskStatus": "Success",
+                  "pipelineStatus": "Deleted",
+                  "createdBy": "Mayank"
+                },
+                {
+                  "pipelineName": "Test10",
+                  "pipeline": "SQL",
+                  "dateCreated": "02-01-2024"
+                  "type": "KAFKA",
+                  "taskStatus": "Success",
+                  "pipelineStatus": "Deleted",
+                  "createdBy": "Mayank"
                 }
               ]}
