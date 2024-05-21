@@ -2,7 +2,7 @@
                 {
                   "pipelineName": "Test1",
                   "pipeline": "SQL",
-                  "dateCreated": "02-01-2024"
+                  "dateCreated": "02-01-2024",
                   "type": "KAFKA",
                   "taskStatus": "Success",
                   "pipelineStatus": "Active",
@@ -11,7 +11,7 @@
                 {
                   "pipelineName": "Test2",
                   "pipeline": "SQL",
-                  "dateCreated": "02-01-2024"
+                  "dateCreated": "02-01-2024",
                   "type": "KAFKA",
                   "taskStatus": "Success",
                   "pipelineStatus": "Deleted",
@@ -20,7 +20,7 @@
                 {
                   "pipelineName": "Test3",
                   "pipeline": "SQL",
-                  "dateCreated": "02-01-2024"
+                  "dateCreated": "02-01-2024",
                   "type": "KAFKA",
                   "taskStatus": "Success",
                   "pipelineStatus": "Deleted",
@@ -29,7 +29,7 @@
                 {
                   "pipelineName": "Test4",
                   "pipeline": "SQL",
-                  "dateCreated": "02-01-2024"
+                  "dateCreated": "02-01-2024",
                   "type": "KAFKA",
                   "taskStatus": "Success",
                   "pipelineStatus": "Active",
@@ -38,7 +38,7 @@
                 {
                   "pipelineName": "Test5",
                   "pipeline": "SQL",
-                  "dateCreated": "02-01-2024"
+                  "dateCreated": "02-01-2024",
                   "type": "KAFKA",
                   "taskStatus": "Success",
                   "pipelineStatus": "Deleted",
@@ -47,7 +47,7 @@
                 {
                   "pipelineName": "Test6",
                   "pipeline": "SQL",
-                  "dateCreated": "02-01-2024"
+                  "dateCreated": "02-01-2024",
                   "type": "KAFKA",
                   "taskStatus": "Success",
                   "pipelineStatus": "Deleted",
@@ -56,7 +56,7 @@
                 {
                   "pipelineName": "Test7",
                   "pipeline": "SQL",
-                  "dateCreated": "02-01-2024"
+                  "dateCreated": "02-01-2024",
                   "type": "KAFKA",
                   "taskStatus": "Success",
                   "pipelineStatus": "Deleted",
@@ -65,7 +65,7 @@
                 {
                   "pipelineName": "Test8",
                   "pipeline": "SQL",
-                  "dateCreated": "02-01-2024"
+                  "dateCreated": "02-01-2024",
                   "type": "KAFKA",
                   "taskStatus": "Success",
                   "pipelineStatus": "Deleted",
@@ -74,7 +74,7 @@
                 {
                   "pipelineName": "Test9",
                   "pipeline": "SQL",
-                  "dateCreated": "02-01-2024"
+                  "dateCreated": "02-01-2024",
                   "type": "KAFKA",
                   "taskStatus": "Success",
                   "pipelineStatus": "Deleted",
@@ -83,7 +83,7 @@
                 {
                   "pipelineName": "Test10",
                   "pipeline": "SQL",
-                  "dateCreated": "02-01-2024"
+                  "dateCreated": "02-01-2024",
                   "type": "KAFKA",
                   "taskStatus": "Success",
                   "pipelineStatus": "Deleted",
