@@ -5,7 +5,7 @@
                   "dateCreated": "02-01-2024"
                   "type": "KAFKA",
                   "taskStatus": "Success",
-                  "pipelineStatus": "Deleted",
+                  "pipelineStatus": "Active",
                   "createdBy": "Mayank"
                 },
                 {
@@ -32,7 +32,7 @@
                   "dateCreated": "02-01-2024"
                   "type": "KAFKA",
                   "taskStatus": "Success",
-                  "pipelineStatus": "Deleted",
+                  "pipelineStatus": "Active",
                   "createdBy": "Mayank"
                 },
                 {
