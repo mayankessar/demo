@@ -8,6 +8,15 @@
             "taskStatus": "Success",
             "pipelineStatus": "Active",
             "createdBy": "Mayank"
+        },
+        {
+            "pipelineName": "Test2",
+            "pipeline": "SQL",
+            "dateCreated": "02-02-2024",
+            "type": "KAFKA",
+            "taskStatus": "Failed",
+            "pipelineStatus": "Failed",
+            "createdBy": "Mayank"
         }
     ]
 }
