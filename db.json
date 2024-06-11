@@ -5,7 +5,7 @@
             "pipeline": "SQL",
             "dateCreated": "2024-02-09T18:05:00.000Z",
             "type": "KAFKA",
-            "taskStatus": [{status:"active", task:"Task1"}, {status:"pending", task: "Task2"}, {status:"error", task: "Task3"}],
+            "taskStatus": [{"status":"active", "task":"Task1"}, {"status":"pending", "task": "Task2"}, {"status":"error", "task": "Task3"}],
             "pipelineStatus": "Active",
             "createdBy": "Mayank"
         },
@@ -14,7 +14,7 @@
             "pipeline": "SQL",
             "dateCreated": "2024-01-09T18:05:00.000Z",
             "type": "KAFKA",
-            "taskStatus": [{status:"active", task:"Task4"}, {status:"pending", task: "Task5"}, {status:"error", task: "Task6"}],
+            "taskStatus": [{"status":"active", "task":"Task4"}, {"status":"pending", "task": "Task5"}, {"status":"error", "task": "Task6"}],
             "pipelineStatus": "Failed",
             "createdBy": "Mayank"
         }
