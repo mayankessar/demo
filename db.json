@@ -6,7 +6,7 @@
             "dateCreated": "2024-02-09T18:05:00.000Z",
             "type": "KAFKA",
             "taskStatus": [{"status":"active", "task":"Task1"}, {"status":"pending", "task": "Task2"}, {"status":"error", "task": "Task3"}, {"status":"error", "task": "Task7"}, {"status":"error", "task": "Task8"}],
-            "pipelineStatus": "Active",
+            "pipelineStatus": "Approved",
             "createdBy": "Mayank"
         },
         {
@@ -24,7 +24,7 @@
             "dateCreated": "2024-02-09T18:05:00.000Z",
             "type": "KAFKA",
             "taskStatus": [{"status":"error", "task": "Task8"}],
-            "pipelineStatus": "Active",
+            "pipelineStatus": "Approval Pending",
             "createdBy": "Mayank"
         },
         {
@@ -41,7 +41,7 @@
             "dateCreated": "2024-02-09T18:05:00.000Z",
             "type": "KAFKA",
             "taskStatus": [{"status":"active", "task":"Task1"}, {"status":"pending", "task": "Task2"}],
-            "pipelineStatus": "Active",
+            "pipelineStatus": "Approval Pending",
             "createdBy": "Mayank"
         },
         {
@@ -58,7 +58,7 @@
             "dateCreated": "2024-02-09T18:05:00.000Z",
             "type": "KAFKA",
             "taskStatus": [{"status":"active", "task":"Task1"}, {"status":"pending", "task": "Task2"}, {"status":"error", "task": "Task3"}, {"status":"error", "task": "Task7"}, {"status":"error", "task": "Task8"}],
-            "pipelineStatus": "Active",
+            "pipelineStatus": "Approved",
             "createdBy": "Mayank"
         },
         {
@@ -76,7 +76,7 @@
             "dateCreated": "2024-02-09T18:05:00.000Z",
             "type": "KAFKA",
             "taskStatus": [{"status":"active", "task":"Task1"}, {"status":"pending", "task": "Task2"}, {"status":"error", "task": "Task3"}, {"status":"error", "task": "Task7"}, {"status":"error", "task": "Task8"}],
-            "pipelineStatus": "Active",
+            "pipelineStatus": "Approved",
             "createdBy": "Mayank"
         },
         {
@@ -93,7 +93,7 @@
             "dateCreated": "2024-02-09T18:05:00.000Z",
             "type": "KAFKA",
             "taskStatus": [{"status":"active", "task":"Task1"}, {"status":"pending", "task": "Task2"}, {"status":"error", "task": "Task3"}, {"status":"error", "task": "Task7"}, {"status":"error", "task": "Task8"}],
-            "pipelineStatus": "Active",
+            "pipelineStatus": "Approval Pending",
             "createdBy": "Mayank"
         },
         {
@@ -111,7 +111,7 @@
             "dateCreated": "2024-02-09T18:05:00.000Z",
             "type": "KAFKA",
             "taskStatus": [{"status":"active", "task":"Task1"}, {"status":"pending", "task": "Task2"}, {"status":"error", "task": "Task3"}, {"status":"error", "task": "Task7"}, {"status":"error", "task": "Task8"}],
-            "pipelineStatus": "Active",
+            "pipelineStatus": "Approval Pending",
             "createdBy": "Mayank"
         },
         {
@@ -128,7 +128,7 @@
             "dateCreated": "2024-02-09T18:05:00.000Z",
             "type": "KAFKA",
             "taskStatus": [{"status":"active", "task":"Task1"}, {"status":"pending", "task": "Task2"}, {"status":"error", "task": "Task3"}, {"status":"error", "task": "Task7"}, {"status":"error", "task": "Task8"}],
-            "pipelineStatus": "Active",
+            "pipelineStatus": "Approval Pending",
             "createdBy": "Mayank"
         },
         {
@@ -145,7 +145,7 @@
             "dateCreated": "2024-02-09T18:05:00.000Z",
             "type": "KAFKA",
             "taskStatus": [{"status":"active", "task":"Task1"}, {"status":"pending", "task": "Task2"}, {"status":"error", "task": "Task3"}, {"status":"error", "task": "Task7"}, {"status":"error", "task": "Task8"}],
-            "pipelineStatus": "Active",
+            "pipelineStatus": "Approved",
             "createdBy": "Mayank"
         },
         {
@@ -163,7 +163,7 @@
             "dateCreated": "2024-02-09T18:05:00.000Z",
             "type": "KAFKA",
             "taskStatus": [{"status":"active", "task":"Task1"}, {"status":"pending", "task": "Task2"}, {"status":"error", "task": "Task3"}, {"status":"error", "task": "Task7"}, {"status":"error", "task": "Task8"}],
-            "pipelineStatus": "Active",
+            "pipelineStatus": "Approved",
             "createdBy": "Mayank"
         },
         {
@@ -172,7 +172,7 @@
             "dateCreated": "2024-01-09T18:05:00.000Z",
             "type": "KAFKA",
             "taskStatus": [{"status":"active", "task":"Task4"}, {"status":"pending", "task": "Task5"}, {"status":"error", "task": "Task6"}, {"status":"error", "task": "Task9"}, {"status":"error", "task": "Task10"}, {"status":"error", "task": "Task11"}],
-            "pipelineStatus": "Failed",
+            "pipelineStatus": "Approval Pending",
             "createdBy": "Mayank"
         }
     ]
