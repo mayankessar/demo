@@ -23,7 +23,7 @@
             "pipeline": "SQL",
             "dateCreated": "2024-02-09T18:05:00.000Z",
             "type": "KAFKA",
-            "taskStatus": [{"status":"active", "task":"Task1"}, {"status":"pending", "task": "Task2"}, {"status":"error", "task": "Task3"}, {"status":"error", "task": "Task7"}, {"status":"error", "task": "Task8"}],
+            "taskStatus": [{"status":"error", "task": "Task8"}],
             "pipelineStatus": "Active",
             "createdBy": "Mayank"
         },
@@ -32,7 +32,7 @@
             "pipeline": "SQL",
             "dateCreated": "2024-01-09T18:05:00.000Z",
             "type": "KAFKA",
-            "taskStatus": [{"status":"active", "task":"Task4"}, {"status":"pending", "task": "Task5"}, {"status":"error", "task": "Task6"}, {"status":"error", "task": "Task9"}, {"status":"error", "task": "Task10"}, {"status":"error", "task": "Task11"}],
+            "taskStatus": [{"status":"active", "task":"Task4"}],
             "pipelineStatus": "Failed",
             "createdBy": "Mayank"
         },{
@@ -40,7 +40,7 @@
             "pipeline": "SQL",
             "dateCreated": "2024-02-09T18:05:00.000Z",
             "type": "KAFKA",
-            "taskStatus": [{"status":"active", "task":"Task1"}, {"status":"pending", "task": "Task2"}, {"status":"error", "task": "Task3"}, {"status":"error", "task": "Task7"}, {"status":"error", "task": "Task8"}],
+            "taskStatus": [{"status":"active", "task":"Task1"}, {"status":"pending", "task": "Task2"}],
             "pipelineStatus": "Active",
             "createdBy": "Mayank"
         },
@@ -49,7 +49,7 @@
             "pipeline": "SQL",
             "dateCreated": "2024-01-09T18:05:00.000Z",
             "type": "KAFKA",
-            "taskStatus": [{"status":"active", "task":"Task4"}, {"status":"pending", "task": "Task5"}, {"status":"error", "task": "Task6"}, {"status":"error", "task": "Task9"}, {"status":"error", "task": "Task10"}, {"status":"error", "task": "Task11"}],
+            "taskStatus": [{"status":"error", "task": "Task11"}],
             "pipelineStatus": "Failed",
             "createdBy": "Mayank"
         },{
