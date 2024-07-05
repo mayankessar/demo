@@ -9,8 +9,7 @@
         "failed",
         "success",
         "success",
-        "failed",
-        "success"
+        "warning",
       ],
       "taskStatus": [
         {
